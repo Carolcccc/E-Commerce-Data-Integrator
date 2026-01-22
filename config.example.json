@@ -1,0 +1,17 @@
+{
+  "store": {
+    "name": "Your Store Name",
+    "description": "Your store description",
+    "temperature": "Room Temperature"
+  },
+  "files": {
+    "sales": "sales.xlsx",
+    "basicinfo": "basicinfo.xlsx",
+    "media": "media.xlsx",
+    "template": "myship_batch_01_test.xlsm"
+  },
+  "batch": {
+    "size": 100,
+    "max_file_size_mb": 2
+  }
+}
