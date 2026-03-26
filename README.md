@@ -1,3 +1,6 @@
+## About the Idea
+Hello! This is the place for integrating information about products that people listed on popular sales platform. By moving the well-built selling place, I looked for a easier solution than manually transfering the product list. If you find any other regular used platform with similar needs, please reach out and I more than happy to dig into other handy solution.
+
 ## Features
 
 - Automatically merge Shopee product, basic info, and media data
